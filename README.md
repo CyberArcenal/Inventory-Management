@@ -13,9 +13,9 @@ Built with **Node.js + Electron + SQLite**, this system focuses on simplicity, a
 ## 📸 Screenshots
 Here are sample displays of the system (replace the links with your own):
 
-![Screenshot 1](https://link-to-your-image-1.com)
-![Screenshot 2](https://link-to-your-image-2.com)
-![Screenshot 3](https://link-to-your-image-3.com)
+![Screenshot 1](https://github.com/CyberArcenal/Inventory-Management/blob/main/Images/img3.png?raw=true)
+![Screenshot 2](https://github.com/CyberArcenal/Inventory-Management/blob/main/Images/img2.png?raw=true)
+![Screenshot 3](https://github.com/CyberArcenal/Inventory-Management/blob/main/Images/img1.png?raw=true)
 
 ## 📦 Installation
 1. Download the installer from the release section.
