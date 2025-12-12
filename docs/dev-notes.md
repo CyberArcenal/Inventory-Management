@@ -1,4 +1,4 @@
-```markdown
+
 # Developer Notes
 
 ## 🛠 Project Structure
@@ -48,5 +48,3 @@
 - Fork the repo and create a feature branch.
 - Submit pull requests with clear commit messages.
 - Document any new modules or workflows in `/docs`.
-
-```
