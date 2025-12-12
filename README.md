@@ -35,8 +35,8 @@ Here are sample displays of the system (replace the links with your own):
 4. Optional: connect to central DB for multi-branch sync.
 
 ## 📖 Documentation
-- [User Guide](docs/user-guide.md)
-- [Developer Notes](docs/dev-notes.md)
+- [User Guide](https://github.com/CyberArcenal/Inventory-Management/blob/main/docs/user-guide.md?raw=true)
+- [Developer Notes](https://github.com/CyberArcenal/Inventory-Management/blob/main/docs/dev-notes.md?raw=true)
 
 ## 🔒 License
 This project is licensed. Redistribution without permission is prohibited.  
