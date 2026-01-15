@@ -11,7 +11,7 @@ Built with **Node.js + Electron + SQLite**, this system focuses on simplicity, a
 - **Lite footprint** – runs smoothly on low-spec machines
 
 ## 📸 Screenshots
-Here are sample displays of the system (replace the links with your own):
+Here are sample displays of the system
 
 ![Screenshot 1](https://github.com/CyberArcenal/Inventory-Management/blob/main/Images/img3.png?raw=true)
 ![Screenshot 2](https://github.com/CyberArcenal/Inventory-Management/blob/main/Images/img2.png?raw=true)
